@@ -1,16 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Ayush Ray</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushray06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushray06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushray06" alt="ayushray06" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@ayush_a_ray" target="blank"><img src="https://img.shields.io/twitter/follow/@ayush_a_ray?logo=twitter&style=for-the-badge" alt="@ayush_a_ray" /></a> </p>
 
 - 🔭 I’m currently working on **my personal website**
 
@@ -36,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushray06&show_icons=true&locale=en" alt="ayushray06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushray06&" alt="ayushray06" /></p>
-

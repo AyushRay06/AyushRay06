@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Ray</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/FXPs.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushray06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushray06" /> </p>

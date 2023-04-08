@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Ray</h1>
 <h3 align="center"
     ><h1>About me</h1><br>
+    <img align="right" src="https://github.com/AyushRay06/AyushRay06/blob/main/png.gif">
 👨‍💻 I'm a Full Stack Developer with a passion for building robust and scalable web applications and APIs.But what really drives me is the desire to contribute to real-world projects that make a difference in people's lives.<br>
 
 🌟 Recently, I've been diving deep into the world of DevOps, exploring tools like Docker, Kubernetes, Jenkins, Terraform, and AWS to improve the quality and reliability of my development workflows.
@@ -14,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushray06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushray06" /> </p>
 
 - 📫 YOU can reach me **rayayush47@gmail.com**
-<img align="right" src="">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://twitter.com/@ayush_a_ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayush_a_ray" height="30" width="40" /></a>

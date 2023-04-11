@@ -1,4 +1,4 @@
-![logo](https://github.com/AyushRay06/AyushRay06/blob/main/Banner-Introduction-to-3D-Animation.webp)
+![logo](https://github.com/AyushRay06/AyushRay06/blob/main/mariobanner.gif)
 <h1 align="center">Hi 👋, I'm Ayush Ray!</h1>
 <h3 align="center"
     ><h1>About me</h1><br>

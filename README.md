@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Ray!</h1>
 <h3 align="center"
     ><h1>About me</h1><br>
-    <img align="right" src="https://github.com/AyushRay06/AyushRay06/blob/main/stray-coding.gif" width ="200px">
+    <img align="right" src="https://github.com/AyushRay06/AyushRay06/blob/main/stray-coding.gif" width ="400px">
 👨‍💻 I'm a Full Stack Developer with a passion for building robust and scalable web applications and APIs.But what really drives me is the desire to contribute to real-world projects that make a difference in people's lives.<br>
 
 🌟 Recently, I've been diving deep into the world of DevOps, exploring tools like Docker, Kubernetes, Jenkins, Terraform, and AWS to improve the quality and reliability of my development workflows.

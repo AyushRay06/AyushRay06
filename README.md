@@ -9,7 +9,7 @@
 
 🚀 My goal is to leverage the power of DevOps to deliver software faster and more reliably, while keeping a strong focus on best practices and quality.
 
-💪 When I'm not coding, you can find me hitting the gym,or catching up on the latest tech trends and news.
+💪 When I'm not coding, you can find me hitting the gym, or catching up on the latest tech trends and news.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushray06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushray06" /> </p>

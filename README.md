@@ -5,9 +5,9 @@
     <img align="right" src="https://github.com/AyushRay06/AyushRay06/blob/main/Untitled_design-removebg-preview.png" width ="400px">
 👨‍💻 I'm a Full Stack Developer with a passion for building robust and scalable web applications and APIs.But what really drives me is the desire to contribute to real-world projects that make a difference in people's lives.<br>
 
-🌟 Recently, I've been diving deep into the world of DevOps, exploring tools like Docker, Kubernetes, Jenkins, Terraform, and AWS to improve the quality and reliability of my development workflows.
+🌟 Recently, I've been diving deep into DevOps, exploring tools like Docker, Kubernetes, Jenkins, Terraform, and AWS to improve the quality and reliability of my development workflows.
 
-🚀 My goal is to leverage the power of DevOps to deliver software faster and more reliably, while keeping a strong focus on best practices and quality.
+🚀 My goal is to leverage the power of DevOps to deliver software faster and more reliably, while focusing on best practices and quality.
 
 💪 When I'm not coding, you can find me hitting the gym, or catching up on the latest tech trends and news.
 </h3>

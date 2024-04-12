@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Ray!</h1>
 <h3 align="center"
     ><h1>About me</h1><br>
-    <img align="right" src="https://github.com/AyushRay06/AyushRay06/blob/main/Untitled_design-removebg-preview.png" width ="300px">
+    <img align="right" src="https://github.com/AyushRay06/AyushRay06/blob/main/Untitled_design-removebg-preview.png" width ="260px">
 👨‍💻 I'm a Full Stack Developer with a passion for building robust and scalable web applications and APIs.But what really drives me is the desire to contribute to real-world projects that make a difference in people's lives.<br>
 
 🌟 Recently, I've been diving deep into DevOps, exploring tools like Docker, Kubernetes, Jenkins, Terraform, and AWS to improve the quality and reliability of my development workflows.
@@ -27,7 +27,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushray06&show_icons=true&locale=en&layout=compact" alt="ayushray06" /></p><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushray06&show_icons=true&locale=en&layout=compact" alt="ayushray06" /></p>
 
 
 <p>&nbsp;<img align="center" background-color="black" margin-left="40px" src="https://github-readme-stats.vercel.app/api?username=ayushray06&show_icons=true&locale=en" alt="ayushray06" /></p>

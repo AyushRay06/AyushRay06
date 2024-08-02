@@ -3,11 +3,7 @@
 <h3 align="center"
     ><h1>About me</h1><br>
     <img align="right" src="https://github.com/AyushRay06/AyushRay06/blob/main/Untitled_design-removebg-preview.png" width ="260px">
-👨‍💻 I'm a Full Stack Developer with a passion for building robust and scalable web applications and APIs.But what really drives me is the desire to contribute to real-world projects that make a difference in people's lives.<br>
-
-🌟 Recently, I've been diving deep into DevOps, exploring tools like Docker, Kubernetes, Jenkins, Terraform, and AWS to improve the quality and reliability of my development workflows.
-
-🚀 My goal is to leverage the power of DevOps to deliver software faster and more reliably, while focusing on best practices and quality.
+Software Development, Deployment, Cloud & DevOps 🚀 
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushray06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushray06" /> </p>

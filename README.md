@@ -1,12 +1,4 @@
-![logo](https://github.com/AyushRay06/AyushRay06/blob/main/mariobanner.gif)
-<h1 align="center">Hi 👋, I'm Ayush Ray!</h1>
-<h3 align="center"
-    ><h1>About me</h1><br>
-    
-Software Development, Deployment, Cloud & DevOps 🚀 
-</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushray06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushray06" /> </p>
 
 - 📫 YOU can reach me **rayayush47@gmail.com**
 

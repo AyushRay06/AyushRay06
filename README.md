@@ -1,6 +1,6 @@
 
 ## 📫 You can reach me at:
-📧 **Email:** [rayayush47@gmail.com](mailto:ayush.rayyy@gmail.com)  
+📧 **Email:** [ayush.rayyy@gmail.com](mailto:ayush.rayyy@gmail.com)  
 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-website-nu-lyart.vercel.app/)  
 
 I’m a **Full-Stack Developer** specializing in **AI integration, AI agents, and DevOps**. I help businesses scale by building high-performance applications, automating workflows, and optimizing deployment pipelines. Passionate about leveraging AI to drive innovation and solve complex problems. 

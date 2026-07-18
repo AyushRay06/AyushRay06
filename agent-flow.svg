@@ -1,0 +1,78 @@
+<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <style>
+    .edge { stroke: #8a8a8a; stroke-width: 1.6; fill: none; stroke-dasharray: 6 7; opacity: .5; animation: flow 1.4s linear infinite; }
+    .loop-edge { stroke: #8a8a8a; stroke-width: 1.6; fill: none; stroke-dasharray: 5 8; opacity: .35; animation: flow 1.8s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -130; } }
+
+    .node circle { fill: none; stroke: #8a8a8a; stroke-width: 1.4; }
+    .node.pulse circle { animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { stroke-opacity: .45; } 50% { stroke-opacity: 1; } }
+
+    .label { fill: #8a8a8a; font-size: 12px; letter-spacing: .02em; }
+    .sublabel { fill: #8a8a8a; font-size: 10px; opacity: .6; }
+
+    .token { fill: #8a8a8a; }
+
+    .loop-label { fill: #8a8a8a; font-size: 10px; opacity: .55; letter-spacing: .08em; }
+  </style>
+
+  <!-- edges -->
+  <path id="e1" class="edge" d="M 82 170 L 240 170" />
+  <path id="e2" class="edge" d="M 282 170 L 500 80" />
+  <path id="e3" class="edge" d="M 282 170 L 500 170" />
+  <path id="e4" class="edge" d="M 282 170 L 500 260" />
+  <path id="e5" class="edge" d="M 542 80 L 740 170" />
+  <path id="e6" class="edge" d="M 542 170 L 740 170" />
+  <path id="e7" class="edge" d="M 542 260 L 740 170" />
+  <path id="e8" class="loop-edge" d="M 760 192 C 760 300, 60 300, 60 192" />
+
+  <!-- flowing tokens -->
+  <circle class="token" r="2.6">
+    <animateMotion dur="2s" repeatCount="indefinite"><mpath href="#e1" /></animateMotion>
+  </circle>
+  <circle class="token" r="2.6">
+    <animateMotion dur="2.1s" begin="0.3s" repeatCount="indefinite"><mpath href="#e3" /></animateMotion>
+  </circle>
+  <circle class="token" r="2.6">
+    <animateMotion dur="2.2s" begin="0.6s" repeatCount="indefinite"><mpath href="#e6" /></animateMotion>
+  </circle>
+  <circle class="token" r="2.2">
+    <animateMotion dur="3.4s" repeatCount="indefinite"><mpath href="#e8" /></animateMotion>
+  </circle>
+
+  <text class="loop-label" x="400" y="312" text-anchor="middle">retry · reflect · re-route</text>
+
+  <!-- input -->
+  <g class="node pulse">
+    <circle cx="60" cy="170" r="22" />
+    <text class="label" x="60" y="152" text-anchor="middle">input</text>
+  </g>
+
+  <!-- router -->
+  <g class="node pulse">
+    <circle cx="261" cy="170" r="24" />
+    <text class="label" x="261" y="150" text-anchor="middle">router</text>
+    <text class="sublabel" x="261" y="196" text-anchor="middle">model select</text>
+  </g>
+
+  <!-- agents -->
+  <g class="node pulse">
+    <circle cx="521" cy="80" r="20" />
+    <text class="label" x="521" y="62" text-anchor="middle">agent</text>
+  </g>
+  <g class="node pulse">
+    <circle cx="521" cy="170" r="20" />
+    <text class="label" x="521" y="152" text-anchor="middle">agent</text>
+  </g>
+  <g class="node pulse">
+    <circle cx="521" cy="260" r="20" />
+    <text class="label" x="521" y="288" text-anchor="middle">agent</text>
+  </g>
+
+  <!-- output -->
+  <g class="node pulse">
+    <circle cx="761" cy="170" r="24" />
+    <text class="label" x="761" y="150" text-anchor="middle">output</text>
+    <text class="sublabel" x="761" y="196" text-anchor="middle">verify</text>
+  </g>
+</svg>
